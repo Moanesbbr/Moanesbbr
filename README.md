@@ -1,16 +1,17 @@
-### Hi there 👋
+![Design and Development](https://github.com/Moanesbbr/Moanesbbr/blob/main/linkedin%20cover.png)
 
-<!--
-**Moanesbbr/Moanesbbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ben Brahim Moanes
+👋 Hi I'm Moanes , and I'm just a passionate self-taught Full Stack Developer from Tunisia. 
 
-Here are some ideas to get you started:
+## My profile overview:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Moanesbbr">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moanesbbr&show_icons=true&theme=light&line_height=27" alt="GitHub Stats"/>
+</a>
+**About**
+
+-  **Learning :**  Mobile and Web Development :zap: | Open-Source :fire:    
+-  **Languages & Frameworks :** Flutter , JavaScript, NodeJS, React, Java
+-  **Hobbies :** Gaming 🎮 & Music :headphones:
+-  **Fact :** Make it work, make it right, make it fast :heart:
+-  **Contact me :** [Personal Website](wwww.moanesbbr.me)
