@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Moanesbbr/Moanesbbr/blob/main/linkedin%20cover.png)
+![Design and Development](https://github.com/Moanesbbr/Moanesbbr/blob/main/git%20poster.png)
 
 # Ben Brahim Moanes
 👋 Hi I'm Moanes , and I'm just a passionate self-taught Full Stack Developer from Tunisia. 
