@@ -11,7 +11,7 @@
 
 ## About
 -  **Learning :**  Mobile and Web Development :zap: | Open-Source :fire:    
--  **Languages & Frameworks :** Flutter , JavaScript, NodeJS, React, Java
+-  **Languages & Frameworks :** Flutter, NodeJs, ReactJs, Java, Laravel, Python, HTML, CSS
 -  **Hobbies :** Gaming 🎮 & Music :headphones:
 -  **Fact :** Make it work, make it right, make it fast :heart:
 -  **Contact me :** [Personal Website](//www.moanesbbr.me/)
