@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/Moanesbbr/Moanesbbr/blob/main/git%20poster.png)
 
 # Ben Brahim Moanes
-👋 Hi I'm Moanes , and I'm just a passionate self-taught Full Stack Developer from Tunisia. 
+👋 Hi I'm Moanes , and I'm a 23-year-old Junior Full Stack Developer with a passion for crafting innovative digital experiences. Armed with a Bachelor's Degree in Information Technology, I possess a strong foundation in various domains, including Mobile Development, Web Development, and UI Design .. 
 
 ## My profile overview:
 
