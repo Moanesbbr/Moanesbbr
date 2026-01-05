@@ -1,4 +1,3 @@
-![Design and Development](https://github.com/Moanesbbr/Moanesbbr/blob/main/git%20poster.png)
 
 # 👋 Ben Brahim Moanes
 ![Profile Views](https://komarev.com/ghpvc/?username=Moanesbbr&style=flat&label=PROFILE+VIEWS&color=blue)
