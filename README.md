@@ -14,7 +14,14 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 
 ## 📊 GitHub Overview
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=Moanesbbr)](https://git.io/streak-stats)
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moanesbbr&count_private=true&show_icons=true&theme=dark" />
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moanesbbr&theme=dark&layout=compact" />
+
+</div>
+
 
 ---
 
