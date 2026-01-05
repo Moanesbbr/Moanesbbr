@@ -13,12 +13,7 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moanesbbr&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Moanesbbr&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moanesbbr&layout=compact)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moanesbbr)](https://git.io/streak-stats)
 
 ---
 
