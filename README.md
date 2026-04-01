@@ -24,6 +24,16 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 
 ---
 
+## ⏱ WakaTime Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
 ## 🧑‍💻 About Me
 
 - ⚡ **Currently Learning:** Advanced Web & Mobile Development | Open Source  
