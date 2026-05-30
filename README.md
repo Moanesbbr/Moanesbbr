@@ -31,8 +31,7 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 <!--START_SECTION:waka-->
 
 ```txt
-Vue   18 mins               ████████████████████░░░░░   80.05 %
-PHP   4 mins                █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
