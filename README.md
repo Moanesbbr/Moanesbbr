@@ -31,7 +31,10 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   6 mins                ████████████▒░░░░░░░░░░░░   49.71 %
+Other        4 mins                ████████▓░░░░░░░░░░░░░░░░   34.35 %
+CSS          2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
