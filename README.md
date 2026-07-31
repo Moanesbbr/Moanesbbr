@@ -31,11 +31,11 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 <!--START_SECTION:waka-->
 
 ```txt
-Vue              2 hrs 40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-PHP              2 hrs 38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-TypeScript       1 hr 22 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Other            1 hr 9 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-JSON             26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+PHP              2 hrs 26 mins         ███████░░░░░░░░░░░░░░░░░░   28.09 %
+Vue              2 hrs 22 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
+Other            1 hr 11 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+JSON             53 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+TypeScript       48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 ```
 
 <!--END_SECTION:waka-->
