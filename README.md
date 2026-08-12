@@ -31,11 +31,11 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          3 hrs 54 mins         ███████████▓░░░░░░░░░░░░░   47.06 %
-Vue          1 hr 44 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Markdown     58 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-TypeScript   57 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-CSS          20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+PHP          4 hrs 30 mins         ███████████░░░░░░░░░░░░░░   43.46 %
+Vue          2 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+TypeScript   1 hr 7 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Markdown     1 hr 4 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Other        57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
 ```
 
 <!--END_SECTION:waka-->
