@@ -31,11 +31,11 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       13 hrs 35 mins        ████████████░░░░░░░░░░░░░   48.64 %
-Markdown         5 hrs 7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-Python           2 hrs 46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-JavaScript       2 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Other            1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+TypeScript           13 hrs 46 mins        ██████████░░░░░░░░░░░░░░░   40.12 %
+Markdown             8 hrs 33 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
+Python               2 hrs 52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+YAML                 2 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+JavaScript           2 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
 ```
 
 <!--END_SECTION:waka-->
