@@ -15,9 +15,9 @@ I hold an **Engineering degree in Software Engineering** with hands-on experienc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moanesbbr&count_private=true&show_icons=true&theme=dark" />
+<img height="180" src="./profile/stats.svg" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moanesbbr&theme=dark&layout=compact" />
+<img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 
 </div>
 
