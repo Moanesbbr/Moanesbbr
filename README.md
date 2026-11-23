@@ -97,11 +97,11 @@ suppliers with delivery, and run the shop (stock, point of sale, repair tickets,
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-Other        2 hrs 26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-Python       2 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-TeX          1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-TypeScript   52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Markdown      3 hrs 15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+Python        2 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+Other         2 hrs 14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+TeX           1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+TypeScript    52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
 
 <!--END_SECTION:waka-->
